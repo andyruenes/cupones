@@ -1,0 +1,35 @@
+# Entornos virtuales de Python
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# Dependencias de Node (si usas npm/yarn)
+node_modules/
+
+# Archivos de compilación
+dist/
+build/
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDE y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Variables de entorno
+.env
+.env.local
+.env.*.local
+
+# Archivos temporales
+*.tmp
+*.temp
+.cache/
